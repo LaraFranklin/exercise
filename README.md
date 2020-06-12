@@ -45,9 +45,7 @@ http://localhost:9012/developers/{id} (del)
 
 Run the server and browse to localhost:9012/swagger-ui.html
 
-
-
-# Running the project with MySQL
+## Running the project with MySQL
 
 Converting it to run with another relational database such as MySQL or PostgreSQL is very easy. Since the project uses Spring Data and the Repository pattern, it's even fairly easy to back the same service with MongoDB. 
 
