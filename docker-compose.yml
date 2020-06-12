@@ -1,0 +1,21 @@
+version: '3.1'
+services:
+  app:
+    container_name: exercise
+    image: exercise
+    network_mode: host
+    build:
+      ./
+    ports:
+    - "9012:9012"
+    depends_on:
+      - dbpostgresql
+  dbpostgresql:
+    image: postgres
+    ports:
+    - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_USER=postgres
+      - POSTGRES_DB=exercise
+
