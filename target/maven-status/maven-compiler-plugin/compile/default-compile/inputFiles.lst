@@ -1,0 +1,13 @@
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/domain/Tecnologia.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/config/SwaggerConfig.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/service/dto/DesarrolladorDTO.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/domain/Desarrollador.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/service/TecnologiaService.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/repository/DesarrolladorRepository.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/service/impl/DesarrolladorServiceImpl.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/controller/DesarrolladorController.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/service/payload/DesarrolladorPayload.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/repository/TecnologiaRepository.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/ExerciseApplication.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/service/impl/TecnologiaServiceImpl.java
+/home/lara/Documentos/Avalith/exercise/src/main/java/com/example/exercise/service/DesarrolladorService.java

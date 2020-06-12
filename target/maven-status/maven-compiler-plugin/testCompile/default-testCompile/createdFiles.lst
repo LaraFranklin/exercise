@@ -1,0 +1,6 @@
+com/example/exercise/domain/TecnologiaTest.class
+com/example/exercise/ExerciseApplicationTests.class
+com/example/exercise/domain/DesarrolladorTest.class
+com/example/exercise/TestUtil.class
+com/example/exercise/domain/DesarrolladorPayloadTest.class
+com/example/exercise/controller/DesarrolladorControllerTest.class
