@@ -80,7 +80,6 @@ spring.jpa.show-sql=true
 
 ```
 
-
 ## Run with docker
 
 Must have docker and docker-compose installed. Run using the comand
@@ -92,6 +91,15 @@ sudo docker-compose up --build
 ```
 
 
+## Note
 
+The file application.properties is configured to run docker, if you want to run tests you can apply one of two solutions
+
+1. Add the following line to the /etc/hosts file
+```
+127.0.0.1 dbpostgresql
+```
+
+2. Remplace dbpostgresql in file application.properties for localhost.
 
 # Questions and Comments: larafranklin95@gmail.com
