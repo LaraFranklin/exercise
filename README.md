@@ -83,6 +83,15 @@ spring.jpa.show-sql=true
 
 ## Run with docker
 
+Must have docker and docker-compose installed. Run using the comand
+
+Linux
+
+```
+sudo docker-compose up --build
+```
+
+
 
 
 # Questions and Comments: larafranklin95@gmail.com
