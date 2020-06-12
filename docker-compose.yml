@@ -7,7 +7,7 @@ services:
     build:
       ./
     ports:
-    - "9012:9012"
+    - "9012:8080"
     depends_on:
       - dbpostgresql
   dbpostgresql:
